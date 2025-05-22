@@ -1,0 +1,193 @@
+[05-Mar-2025 05:39:11 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 81
+[06-Mar-2025 02:19:04 Europe/Berlin] PHP Warning:  Undefined array key "endNumber" in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:19:04 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:19:23 Europe/Berlin] PHP Warning:  Undefined array key "endNumber" in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:19:23 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:23:27 Europe/Berlin] PHP Warning:  Undefined array key "endNumber" in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:23:27 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 17
+[06-Mar-2025 02:54:04 Europe/Berlin] PHP Warning:  Undefined variable $excludedSerials in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 79
+[06-Mar-2025 02:54:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\QR Code Generator\qrcode.php:79
+Stack trace:
+#0 C:\xampp\htdocs\QR Code Generator\qrcode.php(79): in_array('TAA1111111', NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 79
+[06-Mar-2025 03:34:48 Europe/Berlin] PHP Warning:  Undefined variable $excludedSerials in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 94
+[06-Mar-2025 03:34:48 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\QR Code Generator\qrcode.php:94
+Stack trace:
+#0 C:\xampp\htdocs\QR Code Generator\qrcode.php(94): in_array('ABA0000001A', NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 94
+[06-Mar-2025 04:20:30 Europe/Berlin] PHP Warning:  Undefined variable $excludedSerials in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 106
+[06-Mar-2025 04:20:30 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\QR Code Generator\qrcode.php:106
+Stack trace:
+#0 C:\xampp\htdocs\QR Code Generator\qrcode.php(106): in_array('ABA0000001A', NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 106
+[06-Mar-2025 07:59:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: date() expects at least 1 argument, 0 given in C:\xampp\htdocs\QR Code Generator\qrcode.php:78
+Stack trace:
+#0 C:\xampp\htdocs\QR Code Generator\qrcode.php(78): date()
+#1 {main}
+  thrown in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 78
+[06-Mar-2025 08:06:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "Ymd" in C:\xampp\htdocs\QR Code Generator\qrcode.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\QR Code Generator\qrcode.php on line 79
+[10-Mar-2025 07:33:39 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 94
+[11-Mar-2025 02:32:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\xampp\htdocs\qrcodegenerator\qrcode.php:45
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 45
+[13-Mar-2025 01:16:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 104
+[13-Mar-2025 01:23:19 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 104
+[13-Mar-2025 05:38:07 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\qrcodegenerator\database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(31): implode(',', 'ABA0000002A,ABA...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 31
+[13-Mar-2025 05:38:51 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\qrcodegenerator\database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(31): implode(',', 'ABA0000002A,ABA...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 31
+[13-Mar-2025 05:41:08 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\qrcodegenerator\database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(42): implode(',', 'ABA0000002A,ABA...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 42
+[13-Mar-2025 05:41:16 Europe/Berlin] PHP Warning:  Undefined array key "qrCodeUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 44
+[13-Mar-2025 05:41:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'qr_code_image' cannot be null in C:\xampp\htdocs\qrcodegenerator\database.php:56
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 56
+[13-Mar-2025 05:47:30 Europe/Berlin] PHP Warning:  Undefined array key "qrCodeUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 44
+[13-Mar-2025 05:47:30 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in C:\xampp\htdocs\qrcodegenerator\database.php:134
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(134): in_array('ABA0000001A', 'ABA0000002A,ABA...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 134
+[13-Mar-2025 05:48:01 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in C:\xampp\htdocs\qrcodegenerator\database.php:134
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(134): in_array('ABA0000001A', 'ABA0000002A,ABA...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 134
+[13-Mar-2025 07:05:19 Europe/Berlin] PHP Warning:  Undefined array key "csvUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 44
+[13-Mar-2025 07:05:19 Europe/Berlin] PHP Warning:  Undefined array key "qrCodeUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 45
+[13-Mar-2025 07:10:39 Europe/Berlin] PHP Warning:  Undefined array key "csvUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 44
+[13-Mar-2025 07:10:39 Europe/Berlin] PHP Warning:  Undefined array key "qrCodeUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 45
+[13-Mar-2025 07:16:52 Europe/Berlin] PHP Warning:  Undefined array key "csvUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 44
+[13-Mar-2025 07:16:52 Europe/Berlin] PHP Warning:  Undefined array key "qrCodeUrl" in C:\xampp\htdocs\qrcodegenerator\database.php on line 45
+[13-Mar-2025 07:56:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\qrcodegenerator\database.php:173
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(173): mysqli->prepare('SELECT qr_code_...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 173
+[13-Mar-2025 07:57:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in C:\xampp\htdocs\qrcodegenerator\database.php:173
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\database.php(173): mysqli_stmt->bind_param('s', 'ABCA9999999A')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\database.php on line 173
+[13-Mar-2025 08:39:45 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 260
+[13-Mar-2025 08:39:45 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 08:39:45 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 08:39:45 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 08:39:57 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 260
+[13-Mar-2025 08:39:57 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 08:39:57 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 08:39:57 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 08:45:23 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\qrcodegenerator\database.php on line 129
+[13-Mar-2025 09:16:42 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 269
+[13-Mar-2025 09:16:42 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:16:42 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:16:42 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 271
+[13-Mar-2025 09:17:04 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 269
+[13-Mar-2025 09:17:04 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:17:04 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:17:04 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 271
+[13-Mar-2025 09:17:20 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 09:17:20 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:20 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:20 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 263
+[13-Mar-2025 09:17:27 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 09:17:27 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:27 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:27 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 263
+[13-Mar-2025 09:17:31 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 09:17:31 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:31 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:17:31 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 263
+[13-Mar-2025 09:23:36 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 09:23:36 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:23:36 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:23:36 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 263
+[13-Mar-2025 09:24:59 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 269
+[13-Mar-2025 09:24:59 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:24:59 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 270
+[13-Mar-2025 09:24:59 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 271
+[13-Mar-2025 09:25:21 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 261
+[13-Mar-2025 09:25:21 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:25:21 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\database.php on line 262
+[13-Mar-2025 09:25:21 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\database.php on line 263
+[16-Mar-2025 16:46:34 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 249
+[16-Mar-2025 16:46:34 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 250
+[16-Mar-2025 16:46:34 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 250
+[16-Mar-2025 16:46:34 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 251
+[17-Mar-2025 04:01:45 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 140
+[20-Mar-2025 04:26:21 Europe/Berlin] PHP Warning:  file_get_contents(https://quickchart.io/chart?width=300&amp;height=300&amp;chart=http%3A%2F%2F10.255.6.204%2Fqrcodegenerator%2Fgenerated_csv%2Fserial_numbers_1742441180.csv): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 168
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "startPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "startRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "startPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[24-Mar-2025 07:50:30 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 33
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "startPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "startRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "startPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:29:16 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 33
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "startPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "startRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "startPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 31
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 01:30:18 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 33
+[25-Mar-2025 04:36:25 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 04:36:25 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 04:36:25 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 32
+[25-Mar-2025 04:36:25 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode.php on line 33
+[25-Mar-2025 04:37:40 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:37:40 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:37:40 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:37:40 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 33
+[25-Mar-2025 04:38:15 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:38:15 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:38:15 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:38:15 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 33
+[25-Mar-2025 04:40:57 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:40:57 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:40:57 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:40:57 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 33
+[25-Mar-2025 04:41:50 Europe/Berlin] PHP Warning:  Undefined array key "endPrefix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:41:50 Europe/Berlin] PHP Warning:  Undefined array key "endRunningChar" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:41:50 Europe/Berlin] PHP Warning:  Undefined array key "endPostfix" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 32
+[25-Mar-2025 04:41:50 Europe/Berlin] PHP Warning:  Undefined array key "excludedSerials" in C:\xampp\htdocs\qrcodegenerator\qrcode2.php on line 33
+[26-Mar-2025 01:08:44 Europe/Berlin] PHP Warning:  Undefined variable $productType in C:\xampp\htdocs\qrcodegenerator\newqrcode.php on line 112
+[26-Mar-2025 05:22:02 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in C:\xampp\htdocs\qrcodegenerator\newqrcode2.php:93
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\newqrcode2.php(93): array_map('intval', '1,2,3')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\newqrcode2.php on line 93
+[26-Mar-2025 05:26:48 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\qrcodegenerator\newqrcode2.php on line 22
+[18-Apr-2025 06:01:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\qrcodegenerator\newqrcode.php:213
+Stack trace:
+#0 C:\xampp\htdocs\qrcodegenerator\newqrcode.php(213): mysqli_stmt->bind_param('sssss', 'electrical', 'ARA0000001', 'ARA0000022', '', 'Maira', '\x89PNG\r\n\x1A\n\x00\x00\x00\rIHD...')
+#1 {main}
+  thrown in C:\xampp\htdocs\qrcodegenerator\newqrcode.php on line 213
+[21-Apr-2025 02:24:40 Europe/Berlin] PHP Warning:  Undefined variable $qrCodeUrl in C:\xampp\htdocs\qrcodegenerator\newqrcode.php on line 323
+[21-Apr-2025 02:24:40 Europe/Berlin] PHP Warning:  Undefined variable $startSerial in C:\xampp\htdocs\qrcodegenerator\newqrcode.php on line 324
+[21-Apr-2025 02:24:40 Europe/Berlin] PHP Warning:  Undefined variable $endSerial in C:\xampp\htdocs\qrcodegenerator\newqrcode.php on line 324
